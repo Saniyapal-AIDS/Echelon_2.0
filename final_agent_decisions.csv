@@ -1,0 +1,11 @@
+source,action,reason,timestamp
+spot_silver,SKIP,❌ SKIPPED: Redundant Data.,0
+futures_silver,SKIP,❌ SKIPPED: Redundant Data.,1
+spot_silver,COLLECT,✅ Valid Info.,2
+futures_silver,COLLECT,✅ Valid Info.,3
+spot_silver,COLLECT,✅ Valid Info.,4
+futures_silver,COLLECT,✅ Valid Info.,5
+spot_silver,COLLECT,✅ Valid Info.,6
+futures_silver,COLLECT,✅ Valid Info.,7
+spot_silver,COLLECT,✅ Valid Info.,8
+futures_silver,COLLECT,✅ Valid Info.,9

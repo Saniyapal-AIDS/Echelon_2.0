@@ -1,0 +1,21 @@
+source,action,reason,minute,silver_price
+Yahoo Finance,SKIP,❌ SKIPPED: Redundant Data.,1,24.5
+Sentiment API,SKIP,❌ SKIPPED: Redundant Data.,1,24.5
+Sentiment API,SKIP,❌ SKIPPED: Redundant Data.,2,24.5
+Yahoo Finance,SKIP,❌ SKIPPED: Redundant Data.,2,24.5
+Sentiment API,SKIP,❌ SKIPPED: Redundant Data.,3,24.5
+Yahoo Finance,SKIP,❌ SKIPPED: Redundant Data.,3,24.5
+Yahoo Finance,COLLECT,🚨 ANOMALY: High Volatility!,4,22.1
+Sentiment API,COLLECT,✅ Valid Info.,4,22.1
+Yahoo Finance,COLLECT,✅ Valid Info.,5,22.15
+Sentiment API,COLLECT,✅ Valid Info.,5,22.15
+Yahoo Finance,COLLECT,✅ Valid Info.,6,22.15
+Sentiment API,COLLECT,✅ Valid Info.,6,22.15
+Sentiment API,COLLECT,✅ Valid Info.,7,22.15
+Yahoo Finance,SKIP,❌ SKIPPED: Redundant Data.,7,22.15
+Sentiment API,COLLECT,✅ Valid Info.,8,22.2
+Yahoo Finance,COLLECT,✅ Valid Info.,8,22.2
+Yahoo Finance,COLLECT,✅ Valid Info.,9,22.25
+Sentiment API,COLLECT,✅ Valid Info.,9,22.25
+Yahoo Finance,COLLECT,✅ Valid Info.,10,22.3
+Sentiment API,COLLECT,✅ Valid Info.,10,22.3
