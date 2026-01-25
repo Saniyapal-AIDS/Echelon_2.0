@@ -1,3 +1,6 @@
+# Link of dashboard(Agent)
+https://agent-viz-builder.preview.emergentagent.com/
+
 
 # Smart Silver Monitor
 
@@ -141,4 +144,3 @@ In production, these would be replaced with real-time APIs and databases.
 * **Dashboard:** Visualization and explanation layer
 
 ---
-
