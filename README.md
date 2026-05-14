@@ -137,10 +137,22 @@ In production, these would be replaced with real-time APIs and databases.
 
 ---
 
-## Team Contribution
 
-* **Agent Logic:** Decision-making and anomaly detection
-* **Simulation:** Synthetic market and cost modeling
-* **Dashboard:** Visualization and explanation layer
+## 👥 Team Contribution: MindSpark
 
----
+* **Saniya Pal (Member 1 - The Brain):** Lead Architect of the Autonomous Engine. 
+    * Developed the **SilverAgentBrain** logic, implementing **Information Gain/Entropy** filters to eliminate redundant data polling.
+    * Engineered the **Anomaly Detection** system with a high-volatility "Budget Override" (Volatility > 3.0).
+    * Integrated **Epsilon-Greedy (Multi-armed bandit)** logic for intelligent market exploration.
+
+* **Harshita Chandola (Member 2 - The Plumber):** Environment & Simulation.
+    * Created the synthetic silver market streams and handled the multi-source mock API and cost-credit pool.
+
+* **Utkarsha Maharnavar (Member 3 - The Storyteller):** UI & Visualization.
+    * Built the Streamlit dashboard, the real-time decision feed, and the cost-efficiency comparison charts.
+
+## 📂 Project Structure
+* `silver_demo.py` — **Core Agent Logic** (Saniya's work on Anomaly & Entropy)
+* `dashboard.py` — **Streamlit UI** (Visualizing agent savings)
+* `data/` — **Simulation Logs** (`cost_comparison.csv`, `simulation_results.csv`)
+* `MindSpark PPT.pptx` — **Project Presentation** & Strategy Roadmap
